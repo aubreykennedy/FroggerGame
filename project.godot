@@ -15,10 +15,13 @@ run/main_scene="uid://dfq2iqhuccltx"
 config/features=PackedStringArray("4.6", "Forward Plus")
 config/icon="res://icon.svg"
 
+<<<<<<< HEAD
 [autoload]
 
 Global="*uid://cv0t1n0e7k0ls"
 
+=======
+>>>>>>> a8b042b5f8c1de6f3388b6ae3cbbd200f44db2ad
 [display]
 
 window/size/viewport_width=1280
@@ -56,6 +59,7 @@ confirm={
 ]
 }
 
+<<<<<<< HEAD
 [layer_names]
 
 2d_physics/layer_1="Terrain"
@@ -63,6 +67,8 @@ confirm={
 2d_physics/layer_3="Cars"
 2d_physics/layer_4="Walls"
 
+=======
+>>>>>>> a8b042b5f8c1de6f3388b6ae3cbbd200f44db2ad
 [physics]
 
 3d/physics_engine="Jolt Physics"
