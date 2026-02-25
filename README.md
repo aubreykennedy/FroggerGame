@@ -1,5 +1,5 @@
 # 🐸 Frogger Clone (Godot)
-A work-in-progress Frogger-style game built with Godot Engine — created while learning from a YouTube tutorial series.
+A complete Frogger-style game built with Godot Engine — created while learning from a YouTube tutorial series.
 
 This project is part of my game development learning journey. It uses starter assets provided by the tutorial creator, and all credit goes to them. (Clear Code on YouTube)
 
